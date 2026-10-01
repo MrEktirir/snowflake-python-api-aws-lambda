@@ -216,3 +216,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# AWS and Snowflake credentials
+.aws/
+.snowflake/
+*.pem
+*.p8
+*.p12
+*.key
+credentials
+connections.toml
+
+# Serverless and Node.js
+**/.serverless/
+**/node_modules/
+**/serverless.yml

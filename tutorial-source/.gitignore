@@ -1,0 +1,6 @@
+serverless.yml
+node_modules
+venv
+.serverless
+__pycache__
+.DS_Store
